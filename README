@@ -1,5 +1,5 @@
-Please first install the selenium and webdriver carefully!
+Please first install the selenium for python and webdriver carefully!
 
-After initialising the webdriver, please manually open stackoverflow in a new window and log in with your account, then you'll be able to open gmail with your account.
+After initialising the webdriver, please manually open stackoverflow in a new window and log in with your account, then you'll be able to open gmail with your account. It can also be done automatically, but its a one time process. 
 
 make sure to have the stackoverflow window open all the time 
